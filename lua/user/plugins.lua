@@ -64,13 +64,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-e2b9e4bbb696.js"></script>
   
 
-  <title>Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch</title>
+  <title>Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch</title>
 
 
 
     
 
-  <meta name="request-id" content="53D6:7962:1A461E9:2AEDE56:630CCCDD" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2029efe9050ce7610ef5f6c6c0dcfe2bfd345cb5f1b4be0b7bd8f1cada886912" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9MdW5hclZpbS9OZW92aW0tZnJvbS1zY3JhdGNoL3RyZWUvMDMtcGx1Z2lucy9sdWEvdXNlciIsInJlcXVlc3RfaWQiOiI1M0Q2Ojc5NjI6MUE0NjFFOToyQUVERTU2OjYzMENDQ0REIiwidmlzaXRvcl9pZCI6IjkxNjU2MjUxNTk1NDQ3NzgxMjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="5553e8fd7d33c28ba65b95fd1c13dfc30aeaca77569e30b4b840342e5cab50b4" data-pjax-transient="true" />
+  <meta name="request-id" content="53D6:7962:1A464F4:2AEE2E8:630CCD01" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2029efe9050ce7610ef5f6c6c0dcfe2bfd345cb5f1b4be0b7bd8f1cada886912" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9MdW5hclZpbS9OZW92aW0tZnJvbS1zY3JhdGNoL3RyZWUvMDMtcGx1Z2lucy9sdWEvdXNlciIsInJlcXVlc3RfaWQiOiI1M0Q2Ojc5NjI6MUE0NjRGNDoyQUVFMkU4OjYzMENDRDAxIiwidmlzaXRvcl9pZCI6IjkxNjU2MjUxNTk1NDQ3NzgxMjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="48b8ac10fae2f43c410035214e8b6b76348a5051ddae52888a51322a0ae4023a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:438507738" data-pjax-transient>
 
@@ -102,16 +102,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch">
+      <meta name="description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/eba19345e03192eef8d9afb8bcdebb4ded55ae4e6e1a6e9569c536a2b4b96f80/LunarVim/Neovim-from-scratch" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta name="twitter:description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/eba19345e03192eef8d9afb8bcdebb4ded55ae4e6e1a6e9569c536a2b4b96f80/LunarVim/Neovim-from-scratch" /><meta property="og:image:alt" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta property="og:url" content="https://github.com/LunarVim/Neovim-from-scratch" /><meta property="og:description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/options.lua at 03-plugins · LunarVim/Neovim-from-scratch" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/eba19345e03192eef8d9afb8bcdebb4ded55ae4e6e1a6e9569c536a2b4b96f80/LunarVim/Neovim-from-scratch" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta name="twitter:description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/eba19345e03192eef8d9afb8bcdebb4ded55ae4e6e1a6e9569c536a2b4b96f80/LunarVim/Neovim-from-scratch" /><meta property="og:image:alt" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch" /><meta property="og:url" content="https://github.com/LunarVim/Neovim-from-scratch" /><meta property="og:description" content="A Neovim config designed from scratch to be understandable - Neovim-from-scratch/plugins.lua at 03-plugins · LunarVim/Neovim-from-scratch" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4179488/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTc5NDg4LCJzIjo5NDIxMjc2ODIsImMiOjExMjg0NzY4MDcsInQiOjE2NjE3ODMyOTd9--a2ac046a3f0b0f81e9b5137d0598ce887cb01d7d8430e240dcd3d676a0f0a9fe" data-refresh-url="/_alive" data-session-id="2b10fdb17a595c83a8cdae0c19118dcd9c45da337a421cd94e024df972d396b7">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4179488/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTc5NDg4LCJzIjo5NDIxMjc2ODIsImMiOjI5NTcyMTA1NjcsInQiOjE2NjE3ODMzMDd9--821b9eea2d82f5beebae121d91a58d34818debce513e0f4745e04dc8cf650489" data-refresh-url="/_alive" data-session-id="2b10fdb17a595c83a8cdae0c19118dcd9c45da337a421cd94e024df972d396b7">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -140,7 +140,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua" data-pjax-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -231,7 +231,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Qh0H5KjdKijYnciX4iN4D1-MQxqzumrsSGeRhNKn-W7Q8cUcIso3Dwj1PsN2njzaM3FlHV7GoxqT58lexapnMg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="Pz8HyesXU3MY34YPukrEQECTPWSvkl1hXj2EQLR0FBCt08UxYQBOVMi3cFsu94CVLG4bY0LulJeFvdyao3mKTA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -431,7 +431,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;smittyvanilli&quot;,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="b80ff6af5444fd2c8ef3d20b4e52513c490d51b784816c5395c1ca25783b3290" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;smittyvanilli&quot;,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="b9c07b34a0b0aad317def72167e071b739e1f07914def84368d5cc3da0eebd56" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -439,7 +439,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/4179488?s=40&amp;v=4" width="20" height="20" alt="@smittyvanilli" />
       smittyvanilli
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AaFz7zq9a5qikUzZNZOuCG9NrkCAB-rpRrJbxeMjwnFZIQUZmgdbv0gHQKW3KoW87i_EYdEHEIRLEnZnZ1QXRQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DldpvlArr2fsP50Vg2T2kkrEjv3LDBlEQIKqNmtlmEBW1x9I8JGfQgapkWkB3d0my6bk3JoM4ylNIoeU7xJNdA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -476,7 +476,7 @@
 <notification-indicator
   
   class="js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDE3OTQ4OCIsInQiOjE2NjE3ODMyOTd9--857bdb6e74ee754b4fb29bf1a0c60be204b473b90fd89bd9bd4ee99110fd0fe3"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDE3OTQ4OCIsInQiOjE2NjE3ODMzMDd9--24f4fa0c8face9a3957babbae14222044073007f6e20591e97242f9fff1d6347"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -634,7 +634,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua
+      return-to=/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua
       user-id="4179488"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1603,7 +1603,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="04c1230c653082cdfebbac7dfa33352f6dad1742cc320accb4ae20099eeb50b4" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="76065bb301f729e62ced90e41b0a32e43f086bf5272a41a5de16a4fd4ed0f24a" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1655,7 +1655,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wZuhbl6Ql26TV4oNBkHa-RwZ-nyeZVJb5K6nE57CE1zNAQyBC2PRqCBZ_sCG-du9HhQoYlM6pX9lFNoDCvp9Mg" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Qlg-hlRuL6Y4GhxNoh4rkT0Rjb4klp2uLBw85YW5gb1OwpNpAZ1pYIsUaIAipirVPxxfoOnJaoqtpkH1EYHv0w" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="438507738">
 
@@ -1783,7 +1783,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZYH39XdMBTL7IIHs26rwFTH13i4GKSU0ehtRXx-GrCNpG1oaIr9D9Egu9SFbEvFRM_gMMMt20hD7oSxPi77CTQ" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="efCdseoztagmNeg5cQ0SQ6npVnqEFxt8UceH4MqBqel1ajBev8DzbpU7nPTxtRMHq-SEZElI7FjQffrwXrnHhw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="438507738">
 
@@ -1930,7 +1930,7 @@
   <li>
       
   <div data-view-component="true" class="BtnGroup">
-        <a href="/LunarVim/Neovim-from-scratch/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="d0780bf389715169408581deb410e6b3ae1ad750f213c8c5d988ad1ee7d1bf12" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of LunarVim/Neovim-from-scratch" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/LunarVim/Neovim-from-scratch/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="12e6e7df961e59498011f7e4be92932b9f4488d9fdad4d19b78437df1fb41170" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of LunarVim/Neovim-from-scratch" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="802" data-view-component="true" class="Counter">802</span>
@@ -1948,13 +1948,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1f7d12">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-901080">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-1f7d12"
+        id="filter-menu-901080"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1995,18 +1995,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/LunarVim/Neovim-from-scratch/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hucUAH0UOweaCfRdTXTBegKicDC9jC-_04PLREZKX56eN_ZtcTVcwQKLy74znaXSEQZaAWSVSAXgn19r1P-LVQ" autocomplete="off" />
-        <input type="hidden" value="l0fst6AhWSLckr2jr57fTwpY3oCHM-jBjEjCTW6rhBCPlw7arAA-5EQQgkDRd7vnGfz0sV4qj3u_VFZi_B5Q2w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/LunarVim/Neovim-from-scratch/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fB2llVSszXcFMZNGTkS-hKs_y9bqE4YNC5yF4p1tnMxkzUf4WI2qsZ2zrKUwrdosuJvh5zMK4bc4gBHND9hIBw" autocomplete="off" />
+        <input type="hidden" value="BM6hvwWzOuD3A7slxbGmoNsBvxYxbzH0TpE8-Yf2s6ocHkPSCZJdJm-BhMa7WMIIyKWVJ-h2Vk59jajWFUNnYQ" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="8d22d2ed20f1f94535dce89fc94db68e10b564c0c812e01127d3f29cf9e20c1a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="423eef8ef481e78506d1d61ef0bc0bde45fd42a5b387e478456029ba9d9ced7e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="3210 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="3,210" data-view-component="true" class="Counter js-social-count">3.2k</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/LunarVim/Neovim-from-scratch/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JCOj_c4erPEAMG2nlC6PKF2lXM68-e_9C0MKVKnODA_44bgxzTngfU6wU5Cio6_1c7tmwQYK7jNP5nKiS_0DOg" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/LunarVim/Neovim-from-scratch/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KuxwBuzTlAExOLCr300AguuCn-Oa3l3Yz9kMJ2vNd-j2LmvK7_TYjX-4jpzpwCBfxZyl7CAtXBaLfHTRif543Q" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="e8980c481da2366aa99a34837210c7bcca20f70c9e41af389e68306c643dd20a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="fbdc6dff4eeab1229772527e8aa372fb3fe83b3c0cc50eb582eb3c03d732fe32" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2025,13 +2025,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b181db">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-374e16">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b181db"
+        id="filter-menu-374e16"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2225,7 +2225,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LunarVim/Neovim-from-scratch/blob/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/options.lua">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/LunarVim/Neovim-from-scratch/blob/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/plugins.lua">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2309,7 +2309,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/LunarVim/Neovim-from-scratch/blob/{{ urlEncodedRefName }}/lua/user/options.lua" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/LunarVim/Neovim-from-scratch/blob/{{ urlEncodedRefName }}/lua/user/plugins.lua" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2349,7 +2349,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/LunarVim/Neovim-from-scratch/blob/{{ urlEncodedRefName }}/lua/user/options.lua" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/LunarVim/Neovim-from-scratch/blob/{{ urlEncodedRefName }}/lua/user/plugins.lua" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2380,7 +2380,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins"><span>Neovim-from-scratch</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins/lua"><span>lua</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins/lua/user"><span>user</span></a></span><span class="separator">/</span><strong class="final-path">options.lua</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins"><span>Neovim-from-scratch</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins/lua"><span>lua</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/LunarVim/Neovim-from-scratch/tree/03-plugins/lua/user"><span>user</span></a></span><span class="separator">/</span><strong class="final-path">plugins.lua</strong>
   </h2>
     <a href="/LunarVim/Neovim-from-scratch/find/03-plugins" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2391,7 +2391,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="2c1d1213c8f7083773d15e729258fccfcad252486b322999b654103632a0b96a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/LunarVim/Neovim-from-scratch/find/03-plugins">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="bee49baddf189d47682050453e0dabc791bf90dddd5eddab01ddc1ed1261ca20" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/LunarVim/Neovim-from-scratch/find/03-plugins">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2403,13 +2403,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="lua/user/options.lua" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="lua/user/plugins.lua" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LunarVim/Neovim-from-scratch/blob/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/options.lua" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/LunarVim/Neovim-from-scratch/blob/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/plugins.lua" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2452,23 +2452,23 @@
             <span class="text-bold Link--primary">christianchiarulli</span>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="add options" class="Link--secondary" href="/LunarVim/Neovim-from-scratch/commit/538590e84e0290a941a8f57967a261db67c18f47">add options</a>
+                <a data-pjax="true" title="add plugins" class="Link--secondary" href="/LunarVim/Neovim-from-scratch/commit/4e038120bf179d7220638ad3e17bf4974ed50fff">add plugins</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/LunarVim/Neovim-from-scratch/commit/538590e84e0290a941a8f57967a261db67c18f47/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/LunarVim/Neovim-from-scratch/commit/4e038120bf179d7220638ad3e17bf4974ed50fff/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/LunarVim/Neovim-from-scratch/commit/538590e84e0290a941a8f57967a261db67c18f47" data-pjax>538590e</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-12-14T21:45:03Z" class="no-wrap">Dec 14, 2021</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/LunarVim/Neovim-from-scratch/commit/4e038120bf179d7220638ad3e17bf4974ed50fff" data-pjax>4e03812</a>
+            <span itemprop="dateModified"><relative-time datetime="2021-12-14T21:58:05Z" class="no-wrap">Dec 15, 2021</relative-time></span>
           </span>
 
-          <a data-pjax href="/LunarVim/Neovim-from-scratch/commits/03-plugins/lua/user/options.lua" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/LunarVim/Neovim-from-scratch/commits/03-plugins/lua/user/plugins.lua" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -2494,7 +2494,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/LunarVim/Neovim-from-scratch/contributors-list/03-plugins/lua/user/options.lua" preload>
+        src="/LunarVim/Neovim-from-scratch/contributors-list/03-plugins/lua/user/plugins.lua" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -2538,23 +2538,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      46 lines (43 sloc)
+      53 lines (47 sloc)
       <span class="file-info-divider"></span>
-    3.01 KB
+    1.4 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/LunarVim/Neovim-from-scratch/raw/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/options.lua" href="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/options.lua" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/LunarVim/Neovim-from-scratch/blame/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/options.lua" href="/LunarVim/Neovim-from-scratch/blame/03-plugins/lua/user/options.lua" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/LunarVim/Neovim-from-scratch/raw/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/plugins.lua" href="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/plugins.lua" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/LunarVim/Neovim-from-scratch/blame/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/plugins.lua" href="/LunarVim/Neovim-from-scratch/blame/03-plugins/lua/user/plugins.lua" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/options.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vCgqI3LgKiDWkT-cmD0RSkIJL81ssw8lM-Umrh43iGXyx68Wp8KXtQLl7eS5uhZ30LFhP533LjCFSgQnsc3E7A" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/plugins.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mu36Bv4uuZH_ZA1ePx8NT_L3kSf_mJz-p3Q76J8JKoC8tGOfubuWmwDQ86xD4biYja5OPI12ZN-U7kiW8cRl8Q" autocomplete="off" />
       <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2564,7 +2564,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/options.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e3BTlNs2UKUVt3nxp1BMHkswpFINs0tizdJ9Q839GM41n9ahDhTtMMHDq4mG10sj2YjqoPz3and7fV_KYgdURw" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/plugins.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SPkBQjFyYuHDEtar-9PTBFIN7fsw81lV__TYkFJxGlPGoJjbdudN6zymKFmHLWbTLVQy4EIdoXTMbqvuPLxVIg" autocomplete="off" />
               <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2572,7 +2572,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/LunarVim/Neovim-from-scratch?branch=03-plugins&amp;filepath=lua%2Fuser%2Foptions.lua" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/LunarVim/Neovim-from-scratch?branch=03-plugins&amp;filepath=lua%2Fuser%2Fplugins.lua" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2583,10 +2583,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/options.lua" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/plugins.lua" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="b6747363b76425682bfc4852c794c0c58e654beb8a6f3c74e16dfa117cbb68aa" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="c5ff9d052b794be0cd47ebfb9d2d0e82230c964e98eb3f2ac035f64d199cd7d0" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2611,7 +2611,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/LunarVim/Neovim-from-scratch/delete/03-plugins/lua/user/options.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CJBJ8Oor6iq4d4FgBTK6vgrIVpmIkvpPFEuqKvUaJzZjpssAM5d6Jzdspd3rpHya3ALIH22MZWc5NtGMIA5tRw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/LunarVim/Neovim-from-scratch/delete/03-plugins/lua/user/plugins.lua" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xIkvFn2II380w61i5x7RXDJHFl1UoTgjDVO4EPSxuTfAgmBO0Krnai4LZDXgnjoaomjz98-4iCIHc_QSIsT6iw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2639,20 +2639,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/LunarVim/Neovim-from-scratch?branch=03-plugins&amp;filepath=lua%2Fuser%2Foptions.lua">
+                   href="x-github-client://openRepo/https://github.com/LunarVim/Neovim-from-scratch?branch=03-plugins&amp;filepath=lua%2Fuser%2Fplugins.lua">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/options.lua">
+            <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/plugins.lua">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/options.lua" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/LunarVim/Neovim-from-scratch/raw/03-plugins/lua/user/plugins.lua" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/options.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="b6747363b76425682bfc4852c794c0c58e654beb8a6f3c74e16dfa117cbb68aa">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:438507738,&quot;originating_url&quot;:&quot;https://github.com/LunarVim/Neovim-from-scratch/blob/03-plugins/lua/user/plugins.lua&quot;,&quot;user_id&quot;:4179488}}" data-hydro-click-hmac="c5ff9d052b794be0cd47ebfb9d2d0e82230c964e98eb3f2ac035f64d199cd7d0">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2675,20 +2675,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/blame/03-plugins/lua/user/options.lua">
+              <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/blame/03-plugins/lua/user/plugins.lua">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/options.lua">Edit file</a>
+                <a class="dropdown-item" href="/LunarVim/Neovim-from-scratch/edit/03-plugins/lua/user/plugins.lua">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:438507738,&quot;actor_id&quot;:4179488,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/LunarVim/Neovim-from-scratch/delete/03-plugins/lua/user/options.lua">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/LunarVim/Neovim-from-scratch/delete/03-plugins/lua/user/plugins.lua">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2725,193 +2725,224 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Lua" data-tagsearch-path="lua/user/options.lua">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Lua" data-tagsearch-path="lua/user/plugins.lua">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> options <span class="pl-k">=</span> {</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> fn <span class="pl-k">=</span> vim.<span class="pl-smi">fn</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  backup <span class="pl-k">=</span> <span class="pl-c1">false</span>,                          <span class="pl-c"><span class="pl-c">--</span> creates a backup file</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">  clipboard <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>unnamedplus<span class="pl-pds">&quot;</span></span>,               <span class="pl-c"><span class="pl-c">--</span> allows neovim to access the system clipboard</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Automatically install packer</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">  cmdheight <span class="pl-k">=</span> <span class="pl-c1">2</span>,                           <span class="pl-c"><span class="pl-c">--</span> more space in the neovim command line for displaying messages</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> install_path <span class="pl-k">=</span> fn.<span class="pl-c1">stdpath</span> <span class="pl-s"><span class="pl-pds">&quot;</span>data<span class="pl-pds">&quot;</span></span> <span class="pl-k">..</span> <span class="pl-s"><span class="pl-pds">&quot;</span>/site/pack/packer/start/packer.nvim<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">  completeopt <span class="pl-k">=</span> { <span class="pl-s"><span class="pl-pds">&quot;</span>menuone<span class="pl-pds">&quot;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span>noselect<span class="pl-pds">&quot;</span></span> }, <span class="pl-c"><span class="pl-c">--</span> mostly just for cmp</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> fn.<span class="pl-c1">empty</span>(fn.<span class="pl-c1">glob</span>(install_path)) <span class="pl-k">&gt;</span> <span class="pl-c1">0</span> <span class="pl-k">then</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">  conceallevel <span class="pl-k">=</span> <span class="pl-c1">0</span>,                        <span class="pl-c"><span class="pl-c">--</span> so that `` is visible in markdown files</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">  PACKER_BOOTSTRAP <span class="pl-k">=</span> fn.<span class="pl-c1">system</span> {</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">  fileencoding <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>utf-8<span class="pl-pds">&quot;</span></span>,                  <span class="pl-c"><span class="pl-c">--</span> the encoding written to a file</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>git<span class="pl-pds">&quot;</span></span>,</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  hlsearch <span class="pl-k">=</span> <span class="pl-c1">true</span>,                         <span class="pl-c"><span class="pl-c">--</span> highlight all matches on previous search pattern</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>clone<span class="pl-pds">&quot;</span></span>,</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">  ignorecase <span class="pl-k">=</span> <span class="pl-c1">true</span>,                       <span class="pl-c"><span class="pl-c">--</span> ignore case in search patterns</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>--depth<span class="pl-pds">&quot;</span></span>,</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">  mouse <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>a<span class="pl-pds">&quot;</span></span>,                             <span class="pl-c"><span class="pl-c">--</span> allow the mouse to be used in neovim</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>1<span class="pl-pds">&quot;</span></span>,</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">  pumheight <span class="pl-k">=</span> <span class="pl-c1">10</span>,                          <span class="pl-c"><span class="pl-c">--</span> pop up menu height</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>https://github.com/wbthomason/packer.nvim<span class="pl-pds">&quot;</span></span>,</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">  showmode <span class="pl-k">=</span> <span class="pl-c1">false</span>,                        <span class="pl-c"><span class="pl-c">--</span> we don&#39;t need to see things like -- INSERT -- anymore</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    install_path,</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">  showtabline <span class="pl-k">=</span> <span class="pl-c1">2</span>,                         <span class="pl-c"><span class="pl-c">--</span> always show tabs</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">  }</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">  smartcase <span class="pl-k">=</span> <span class="pl-c1">true</span>,                        <span class="pl-c"><span class="pl-c">--</span> smart case</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">print</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Installing packer close and reopen Neovim...<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">  smartindent <span class="pl-k">=</span> <span class="pl-c1">true</span>,                      <span class="pl-c"><span class="pl-c">--</span> make indenting smarter again</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">  vim.<span class="pl-c1">cmd</span> <span class="pl-s"><span class="pl-pds">[[</span>packadd packer.nvim<span class="pl-pds">]]</span></span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  splitbelow <span class="pl-k">=</span> <span class="pl-c1">true</span>,                       <span class="pl-c"><span class="pl-c">--</span> force all horizontal splits to go below current window</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">  splitright <span class="pl-k">=</span> <span class="pl-c1">true</span>,                       <span class="pl-c"><span class="pl-c">--</span> force all vertical splits to go to the right of current window</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">  swapfile <span class="pl-k">=</span> <span class="pl-c1">false</span>,                        <span class="pl-c"><span class="pl-c">--</span> creates a swapfile</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Autocommand that reloads neovim whenever you save the plugins.lua file</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">--</span> termguicolors = true,                    -- set term gui colors (most terminals support this)</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">vim.<span class="pl-c1">cmd</span> <span class="pl-s"><span class="pl-pds">[[</span></span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">  timeoutlen <span class="pl-k">=</span> <span class="pl-c1">1000</span>,                        <span class="pl-c"><span class="pl-c">--</span> time to wait for a mapped sequence to complete (in milliseconds)</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-s">  augroup packer_user_config</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">  undofile <span class="pl-k">=</span> <span class="pl-c1">true</span>,                         <span class="pl-c"><span class="pl-c">--</span> enable persistent undo</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    autocmd!</span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">  updatetime <span class="pl-k">=</span> <span class="pl-c1">300</span>,                        <span class="pl-c"><span class="pl-c">--</span> faster completion (4000ms default)</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    autocmd BufWritePost plugins.lua source &lt;afile&gt; | PackerSync</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">  writebackup <span class="pl-k">=</span> <span class="pl-c1">false</span>,                     <span class="pl-c"><span class="pl-c">--</span> if a file is being edited by another program (or was written to file while editing with another program), it is not allowed to be edited</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-s">  augroup end</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">  expandtab <span class="pl-k">=</span> <span class="pl-c1">true</span>,                        <span class="pl-c"><span class="pl-c">--</span> convert tabs to spaces</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">]]</span></span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">  shiftwidth <span class="pl-k">=</span> <span class="pl-c1">2</span>,                          <span class="pl-c"><span class="pl-c">--</span> the number of spaces inserted for each indentation</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">  tabstop <span class="pl-k">=</span> <span class="pl-c1">2</span>,                             <span class="pl-c"><span class="pl-c">--</span> insert 2 spaces for a tab</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Use a protected call so we don&#39;t error out on first use</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">  cursorline <span class="pl-k">=</span> <span class="pl-c1">true</span>,                       <span class="pl-c"><span class="pl-c">--</span> highlight the current line</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> status_ok, packer <span class="pl-k">=</span> <span class="pl-c1">pcall</span>(require, <span class="pl-s"><span class="pl-pds">&quot;</span>packer<span class="pl-pds">&quot;</span></span>)</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">  number <span class="pl-k">=</span> <span class="pl-c1">true</span>,                           <span class="pl-c"><span class="pl-c">--</span> set numbered lines</span></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> <span class="pl-k">not</span> status_ok <span class="pl-k">then</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">  relativenumber <span class="pl-k">=</span> <span class="pl-c1">false</span>,                  <span class="pl-c"><span class="pl-c">--</span> set relative numbered lines</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">return</span></td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">  numberwidth <span class="pl-k">=</span> <span class="pl-c1">4</span>,                         <span class="pl-c"><span class="pl-c">--</span> set number column width to 2 {default 4}</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">  signcolumn <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>yes<span class="pl-pds">&quot;</span></span>,                      <span class="pl-c"><span class="pl-c">--</span> always show the sign column, otherwise it would shift the text each time</span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">  wrap <span class="pl-k">=</span> <span class="pl-c1">false</span>,                            <span class="pl-c"><span class="pl-c">--</span> display lines as one long line</span></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Have packer use a popup window</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">  scrolloff <span class="pl-k">=</span> <span class="pl-c1">8</span>,                           <span class="pl-c"><span class="pl-c">--</span> is one of my fav</span></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">packer.<span class="pl-c1">init</span> {</td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">  sidescrolloff <span class="pl-k">=</span> <span class="pl-c1">8</span>,</td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">  display <span class="pl-k">=</span> {</td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">  guifont <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>monospace:h17<span class="pl-pds">&quot;</span></span>,               <span class="pl-c"><span class="pl-c">--</span> the font used in graphical neovim applications</span></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    open_fn <span class="pl-k">=</span> <span class="pl-k">function</span>()</td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>packer.util<span class="pl-pds">&quot;</span></span>).<span class="pl-c1">float</span> { border <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>rounded<span class="pl-pds">&quot;</span></span> }</td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">end</span>,</td>
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">vim.<span class="pl-smi">opt</span>.<span class="pl-smi">shortmess</span>:<span class="pl-c1">append</span> <span class="pl-s"><span class="pl-pds">&quot;</span>c<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">  },</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-k">for</span> k, v <span class="pl-k">in</span> <span class="pl-c1">pairs</span>(options) <span class="pl-k">do</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">  vim.<span class="pl-smi">opt</span>[k] <span class="pl-k">=</span> v</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">--</span> Install your plugins here</span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-k">return</span> packer.<span class="pl-c1">startup</span>(<span class="pl-k">function</span>(<span class="pl-smi">use</span>)</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">--</span> My plugins here</span></td>
+        </tr>
+        <tr>
           <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">vim.<span class="pl-c1">cmd</span> <span class="pl-s"><span class="pl-pds">&quot;</span>set whichwrap+=&lt;,&gt;,[,],h,l<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">use</span> <span class="pl-s"><span class="pl-pds">&quot;</span>wbthomason/packer.nvim<span class="pl-pds">&quot;</span></span> <span class="pl-c"><span class="pl-c">--</span> Have packer manage itself</span></td>
         </tr>
         <tr>
           <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">vim.<span class="pl-c1">cmd</span> <span class="pl-s"><span class="pl-pds">[[</span>set iskeyword+=-<span class="pl-pds">]]</span></span></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">use</span> <span class="pl-s"><span class="pl-pds">&quot;</span>nvim-lua/popup.nvim<span class="pl-pds">&quot;</span></span> <span class="pl-c"><span class="pl-c">--</span> An implementation of the Popup API from vim in Neovim</span></td>
         </tr>
         <tr>
           <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">vim.<span class="pl-c1">cmd</span> <span class="pl-s"><span class="pl-pds">[[</span>set formatoptions-=cro<span class="pl-pds">]]</span></span> <span class="pl-c"><span class="pl-c">--</span> TODO: this doesn&#39;t seem to work</span></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">use</span> <span class="pl-s"><span class="pl-pds">&quot;</span>nvim-lua/plenary.nvim<span class="pl-pds">&quot;</span></span> <span class="pl-c"><span class="pl-c">--</span> Useful lua functions used ny lots of plugins</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">--</span> Automatically set up your configuration after cloning packer.nvim</span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">--</span> Put this at the end after all plugins</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">if</span> PACKER_BOOTSTRAP <span class="pl-k">then</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">&quot;</span>packer<span class="pl-pds">&quot;</span></span>).<span class="pl-c1">sync</span>()</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">end</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span>)</td>
         </tr>
   </table>
 </div>
@@ -2937,7 +2968,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LunarVim/Neovim-from-scratch/blame/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/options.lua">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/LunarVim/Neovim-from-scratch/blame/4e038120bf179d7220638ad3e17bf4974ed50fff/lua/user/plugins.lua">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/LunarVim/Neovim-from-scratch/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>

@@ -1,9 +1,11 @@
 # Neovim from scratch
 
-My NeoVim config inspired by the NeoVim From Scratch YouTube series
+My NeoVim config is inspired by the NeoVim From Scratch YouTube series
 
 The rest of this is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
+
+---
 
 **Important Update** When I initially created this repo I didn't anticipate the amount of breaking changes, if you'd like to use the same basic config as this one as a base I recommend my new repo: [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
 

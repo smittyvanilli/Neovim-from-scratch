@@ -1,6 +1,8 @@
 # Neovim from scratch
 
-My NeoVim config is inspired by the NeoVim From Scratch YouTube series
+My NeoVim config is inspired by the NeoVim From Scratch YouTube series.
+
+Color scheme has been changed to default for VSCode / VSCodium.
 
 The rest of this is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)

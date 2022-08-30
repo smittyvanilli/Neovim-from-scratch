@@ -56,3 +56,7 @@ gl (more info about the error)
 ## <tab> and <return>:
 (Just type a function + <Tab> and the result is completion. Hit the <enter> to complete it. Works for functions, snippets,
 and buffers.
+
+## LSPInstallInfo
+(just type :LspInstallInfo + <Enter> key. After that, you can search by typing '/' (forward slash) and then what you want to
+search for. Type 'I' to install the server(s) you need)

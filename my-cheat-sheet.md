@@ -52,3 +52,7 @@ Alt+k (moves selected text down)
 
 ## Syntax Error Mode:
 gl (more info about the error)
+
+## <tab> and <return>:
+(Just type a function + <Tab> and the result is completion. Hit the <enter> to complete it. Works for functions, snippets,
+and buffers.

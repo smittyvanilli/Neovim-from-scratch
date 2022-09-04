@@ -6,6 +6,8 @@ Color scheme has been changed to default for VSCode / VSCodium.
 
 Completions have been added.
 
+More color scheme has been added by treesiter plug-in
+
 The rest of this is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

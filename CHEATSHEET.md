@@ -2,7 +2,7 @@
 
 ## :Lexplore
 (brings up simplfied file explorer)
-(now replaced by (leader)E, which is <Space>+e
+(now replaced by (leader)E, which is <Space> + e
 
 ## :vsplit
 (splits the screen vertically into 2)
@@ -38,10 +38,10 @@ jk = exits mode
 Alt+j (moves selected text up)
 Alt+k (moves selected text down)
 
-## :packer+<Tab>
+## :packer + <Tab>
 (all the packer commands to install plug-ins)
 
-## :colorscheme+<Tab>
+## :colorscheme + <Tab>
 (change the color scheme)
 
 ## :LspInstallInfo
@@ -60,3 +60,41 @@ and buffers.
 ## LSPInstallInfo
 (just type :LspInstallInfo + <Enter> key. After that, you can search by typing '/' (forward slash) and then what you want to
 search for. Type 'I' to install the server(s) you need)
+
+## Telescope
+
+Type this to search for files (with a preview box):
+Telescope find_files + <Enter> key
+
+To search for all your TODOs and anything involving text
+:Telescope live_grep + <Enter> key
+
+Type the following to go to the definition of a function
+:Telescope lsp_definitions + <Enter> key
+
+For a list of all definitions:
+gr (on top of the name of a function)
+
+Or:
+:Telescope lsp_definitions (same as typing gd)
+
+Here is another way:
+:Telescope lsp_references
+
+To display a quick fix list:
+gr
+
+To display Git branches:
+:Telescope git_branches
+
+To display your Git status:
+:Telescope git_status
+
+To display some git commits:
+:Telescope git_commits
+
+Searches for files at the bottom of the screen 
+:Telescope find_files theme=ivy
+
+For a more dropdown version:
+:Telescope find_files theme=dropdown

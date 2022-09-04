@@ -98,3 +98,11 @@ Searches for files at the bottom of the screen
 
 For a more dropdown version:
 :Telescope find_files theme=dropdown
+
+## Comments
+
+To comment a line out, type:
+gcc
+
+For multiple lines, type:
+highlight the lines in visual mode, then type gc

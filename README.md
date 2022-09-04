@@ -10,6 +10,8 @@ More color scheme has been added by treesiter plug-in
 
 Added abilities for faster comments.
 
+Added the ability for Git signs.
+
 The rest of this is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

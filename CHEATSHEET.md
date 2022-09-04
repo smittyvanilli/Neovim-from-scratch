@@ -106,3 +106,8 @@ gcc
 
 For multiple lines, type:
 highlight the lines in visual mode, then type gc
+
+## GitSigns
+
+For a full list of commands:
+:GitSigns + <tab>

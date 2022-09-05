@@ -12,7 +12,9 @@ Added abilities for faster comments.
 
 Added the ability for Git signs.
 
-The rest of this is copied from Christian Chiarulli's README file.
+Add NVim-Tree, an improved file explorer. Disclaimer: there were lots of fixes I had to do to get his working!
+
+The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 
 ---

@@ -21,7 +21,6 @@ nvim_tree.setup {
     "dashboard",
     "alpha",
   },
-  --[[ auto_close = true, ]]
   open_on_tab = false,
   hijack_cursor = false,
   update_cwd = true,
@@ -62,6 +61,7 @@ nvim_tree.setup {
   },
   renderer = {
     root_folder_modifier = ":t",
+    highlight_git = true,
     icons = {
       show = {
         file = true,
@@ -101,9 +101,10 @@ nvim_tree.setup {
   actions = {
     open_file = {
       quit_on_open = false,
-      resize_window = true
+      resize_window = true,
+      window_picker = {
+        enable = true
+      }
     }
   }
-  -- git_hl = 1,
-  -- disable_window_picker = 0,
 }

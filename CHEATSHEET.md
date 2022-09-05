@@ -111,3 +111,39 @@ highlight the lines in visual mode, then type gc
 
 For a full list of commands:
 :GitSigns + <tab>
+
+## Nvim-tree
+(all of these commands work within the actual tree and not the editor window
+
+To move to left window:
+<Ctrl> + h
+
+to move to right window:
+<Ctrl> + l
+
+To enter a file:
+<enter>
+
+NvimTreeToggle:
+<Spacebar> + e
+
+More command:
+:Nvim + <tab>
+
+From within a directory, to create a new file (and over the fileaname):
+a
+
+From within a directory, to rename a file (and over the fileaname):
+r
+
+From within a directory, to delete a file (and over the fileaname)
+d
+
+To close a directory / node:
+h
+
+To open a directory / node:
+l
+
+For a vertical split of the window:
+v

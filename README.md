@@ -14,6 +14,8 @@ Added the ability for Git signs.
 
 Add NVim-Tree, an improved file explorer. Disclaimer: there were lots of fixes I had to do to get his working!
 
+Added buffers / tabs, like in VSCode / Atom. 
+
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

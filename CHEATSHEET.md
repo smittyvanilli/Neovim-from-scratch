@@ -147,3 +147,28 @@ l
 
 For a vertical split of the window:
 v
+
+## Bufferline
+To switch buffers to the left:
+<Shift> + h
+
+To switch buffers to the right:
+<Shift> + l
+
+To switch buffers using letters:
+:BufferLinePick + <key>
+
+The buffers are clickable!
+
+Starting a new tab:
+:tabnew %
+
+To move between tabs:
+gt
+
+To Close a buffer:
+:Bdelete
+
+To view highlights:
+:hi + <Tab>
+

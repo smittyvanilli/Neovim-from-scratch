@@ -23,26 +23,7 @@ nvim_tree.setup {
   },
   open_on_tab = false,
   hijack_cursor = false,
-  update_cwd = true,
-   diagnostics = {
-    enable = true,
-    icons = {
-      hint = "",
-      info = "",
-      warning = "",
-      error = "",
-    },
-  },
-  update_focused_file = {
-    enable = true,
-    update_cwd = true,
-    ignore_list = {},
-  },
-  git = {
-    enable = true,
-    ignore = true,
-    timeout = 500,
-  },
+  sync_root_with_cwd = true,
   view = {
     width = 30,
     height = 30,
@@ -87,24 +68,56 @@ nvim_tree.setup {
           deleted = "",
           untracked = "U",
           ignored = "◌",
-        }
-      }
-    }
+        },
+      },
+    },
   },
   hijack_directories = {
     enable = true,
     auto_open = true,
   },
+  update_focused_file = {
+    enable = true,
+    sync_root_with_cwd = true,
+    ignore_list = {},
+  },
+  system_open = {
+    cmd = nil,
+    args = {},
+  },
+  diagnostics = {
+    enable = true,
+    icons = {
+      hint = "",
+      info = "",
+      warning = "",
+      error = "",
+    },
+  },
+  filters = {
+    dotfiles = false,
+    custom = {},
+  },
   filesystem_watchers = {
-          enable = true
+    enable = true,
+    debounce_delay = 50,
+  },
+  git = {
+    enable = true,
+    ignore = true,
+    timeout = 500,
   },
   actions = {
     open_file = {
       quit_on_open = false,
       resize_window = true,
       window_picker = {
-        enable = true
-      }
-    }
-  }
+        enable = true,
+      },
+    },
+  },
+  trash = {
+    cmd = "gio trash",
+    require_confirm = true,
+  },
 }

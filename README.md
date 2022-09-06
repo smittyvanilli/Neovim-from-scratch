@@ -20,6 +20,8 @@ Add ability to lint / error-check your files using external methods and LSP.
 
 New and improved status line at the bottom.
 
+Added a floating terminal plugin
+
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

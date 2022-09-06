@@ -182,3 +182,10 @@ To format your file using LSP:
 
 :lua vim.lsp.formatting_sync()
 
+## Toggleterm
+
+To toggle Toggleterm:
+<Ctrl> + \
+
+To toggle LazyGit:
+:lua _LAZYGIT_TOGGLE

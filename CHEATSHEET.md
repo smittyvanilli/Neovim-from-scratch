@@ -172,3 +172,13 @@ To Close a buffer:
 To view highlights:
 :hi + <Tab>
 
+## Null-ls
+
+When you have an error, for more information type:
+gl
+
+To format your file using LSP:
+:lua vim.lsp.buf.formatting_sync()
+
+:lua vim.lsp.formatting_sync()
+

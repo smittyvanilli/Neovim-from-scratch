@@ -26,6 +26,8 @@ Added impaient plugin. Load times will be faster.
 
 Lines will be indented in source files from the indentline plugin.
 
+Added whichkey plugin to allow faster menu options
+
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

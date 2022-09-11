@@ -22,10 +22,11 @@ nvim_tree.setup {
     "alpha",
   },
   open_on_tab = false,
+  -- PLEASE NOTE - auto_close property has been removed
   hijack_cursor = false,
   sync_root_with_cwd = true,
   view = {
-    width = 30,
+    width = 25,
     height = 30,
     hide_root_folder = false,
     side = "left",
@@ -43,6 +44,17 @@ nvim_tree.setup {
   renderer = {
     root_folder_modifier = ":t",
     highlight_git = true,
+    indent_markers = {
+        enable = true,
+          inline_arrows = true,
+          icons = {
+            corner = "└",
+            edge = "│",
+            item = "│",
+            bottom = "─",
+            none = " ",
+      },
+    },
     icons = {
       show = {
         file = true,

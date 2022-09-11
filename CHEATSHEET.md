@@ -189,3 +189,56 @@ To toggle Toggleterm:
 
 To toggle LazyGit:
 :lua _LAZYGIT_TOGGLE
+
+## Whichkey
+
+To comment a file:
+<spacebar> + /
+
+To call up the dashboard:
+<spacebar> + a
+
+To switch buffers / files:
+<spacebar> + b
+
+To toggle NvimTree / the file explorer:
+<spacebar> + e
+
+To save a file (i.e. much faster than :w):
+<spacebar> + w
+
+To quit Neovim (i.e. much faster than :q):
+<spacebar> + q
+
+To close a buffer / file:
+<spacebar> + c
+
+For no highlight:
+<spacebar> + h
+
+To find /search your files:
+<spacebar> + f
+
+To find / search for text within your files:
+<spacebar> + F
+
+To Telescope projects / find files within your projects:
+<spacebar> + P
+ 
+For Packer related stuff:
+<spacebar> + p
+
+For Git related stuff:  
+<spacebar> + g
+
+For LSP related stuff:
+<spacebar> + l
+
+For Telescope related stuff:
+<spacebar> + s
+
+For Terminal related stuff:
+<spacebar> + t
+
+To quit Lazygit wihtin NeoVim:
+:q

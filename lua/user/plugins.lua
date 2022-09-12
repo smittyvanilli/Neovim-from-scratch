@@ -89,7 +89,8 @@ return packer.startup(function(use)
     "nvim-treesitter/nvim-treesitter",
     run = ":TSUpdate",
   }
-  use "JoosepAlviste/nvim-ts-context-commentstring"
+  use "JoosepAlviste/nvim-ts-context- commentstring"
+  use "windwp/nvim-ts-autoatg"
 
   -- Git
   use "lewis6991/gitsigns.nvim"

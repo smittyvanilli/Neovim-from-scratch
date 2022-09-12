@@ -20,15 +20,17 @@ Add ability to lint / error-check your files using external methods and LSP.
 
 New and improved status line at the bottom.
 
-Added a floating terminal plugin
+Added a floating terminal plugin.
 
 Added impaient plugin. Load times will be faster.
 
 Lines will be indented in source files from the indentline plugin.
 
-Added whichkey plugin to allow faster menu options
+Added whichkey plugin to allow faster menu options.
 
-Tags can now automatically be closed by by nvim-ts-autotag
+Tags can now automatically be closed by by nvim-ts-autotag.
+
+parenthesis are now surround by different colors as they nest.
 
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)

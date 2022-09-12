@@ -87,6 +87,7 @@ local mappings = {
   ["e"] = { "<cmd>NvimTreeToggle<cr>", "Explorer" },
   ["w"] = { "<cmd>w!<CR>", "Save" },
   ["q"] = { "<cmd>q!<CR>", "Quit" },
+  ["Q"] = { "<cmd>wq<CR>", "Save & Quit" },
   ["c"] = { "<cmd>Bdelete!<CR>", "Close Buffer" },
   ["h"] = { "<cmd>nohlsearch<CR>", "No Highlight" },
   ["f"] = {
@@ -94,7 +95,8 @@ local mappings = {
     "Find files",
   },
   ["F"] = { "<cmd>Telescope live_grep theme=ivy<cr>", "Find Text" },
-  ["P"] = { "<cmd>Telescope projects<cr>", "Projects" },
+  ["P"] = { "<cmd>Telescope projects<CR>", "Projects" },
+  ["ec"] = { "<cmd>e ~/.config/nvim/init.lua<CR>", "Edit config" },
 
   p = {
     name = "Packer",

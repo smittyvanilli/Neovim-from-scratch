@@ -28,6 +28,8 @@ Lines will be indented in source files from the indentline plugin.
 
 Added whichkey plugin to allow faster menu options
 
+Tags can now automatically be closed by by nvim-ts-autotag
+
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

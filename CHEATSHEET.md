@@ -242,3 +242,8 @@ For Terminal related stuff:
 
 To quit Lazygit wihtin NeoVim:
 :q
+
+## nvim-ts-autotag
+
+Tags can be automatically closed. For example:
+<html> automatical results to: <html></html>

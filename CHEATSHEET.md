@@ -247,3 +247,10 @@ To quit Lazygit wihtin NeoVim:
 
 Tags can be automatically closed. For example:
 <html> automatical results to: <html></html>
+
+## NvimTreeToggle Extras
+
+There are now 3 (i.e. not 2 as stated on the commit) added shortcuts when you type <Ctrl> + E:
+
+1. <Spacebar> + Q to "Save and Quit"
+2. <Spacebar> + ec to "Edit the config file (i.e. init.lua)"

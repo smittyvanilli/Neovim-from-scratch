@@ -32,6 +32,8 @@ Tags can now automatically be closed by by nvim-ts-autotag.
 
 parenthesis are now surround by different colors as they nest.
 
+Added some NvimTreeToggle Shortcuts.
+
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)
 

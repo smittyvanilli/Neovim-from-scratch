@@ -96,7 +96,9 @@ local mappings = {
   },
   ["F"] = { "<cmd>Telescope live_grep theme=ivy<cr>", "Find Text" },
   ["P"] = { "<cmd>Telescope projects<CR>", "Projects" },
+  ["tf"] = { ":Telescope find_files<CR>", "Find Files" },
   ["ec"] = { "<cmd>e ~/.config/nvim/init.lua<CR>", "Edit config" },
+  ["o"] = { "<cmd>Telescoe old<CR>", "Find Recent Files" },
 
   p = {
     name = "Packer",

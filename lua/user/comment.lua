@@ -3,6 +3,8 @@ if not status_ok then
   return
 end
 
+require('Comment').setup() -- SDM this was required to use this plugin
+
 comment.setup {
   pre_hook = function(ctx)
     local U = require "Comment.utils"

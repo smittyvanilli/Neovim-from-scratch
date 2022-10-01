@@ -40,6 +40,12 @@ packer.init {
 
 -- Install your plugins here
 return packer.startup(function(use)
+
+   -- Load lua path
+  local lua_path = function(name)
+    return string.format("require'plugins.%s'", name)
+  end
+
   -- My plugins here
   use "wbthomason/packer.nvim" -- Have packer manage itself
   use "nvim-lua/popup.nvim" -- An implementation of the Popup API from vim in Neovim
@@ -76,8 +82,9 @@ return packer.startup(function(use)
   use "rafamadriz/friendly-snippets" -- a bunch of snippets to use
 
   -- LSP
+  use { 'williamboman/mason.nvim' } -- , config = lua_path"mason" }
   use "neovim/nvim-lspconfig" -- enable LSP
-  use "williamboman/nvim-lsp-installer" -- simple to use language server installe r
+--  use "williamboman/nvim-lsp-installer" -- simple to use language server installe r
   use "tamago324/nlsp-settings.nvim" -- language server settings defined in json for
   use "jose-elias-alvarez/null-ls.nvim" -- for formatters and linters
 

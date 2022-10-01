@@ -27,7 +27,7 @@ nvim_tree.setup {
   sync_root_with_cwd = true,
   view = {
     width = 25,
-    height = 30,
+    --[[ height = 30, ]]
     hide_root_folder = false,
     side = "left",
     mappings = {

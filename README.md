@@ -2,15 +2,15 @@
 
 My NeoVim config is inspired by the NeoVim From Scratch YouTube series.
 
-Color scheme has been changed to default for VSCode / VSCodium.
+Color scheme changing to default for VSCode / VSCodium.
 
 Completions have been added.
 
 More color scheme has been added by treesiter plug-in
 
-Added abilities for faster comments.
+Add abilities for faster comments.
 
-Added the ability for Git signs.
+Add the ability for Git signs.
 
 Add NVim-Tree, an improved file explorer. Disclaimer: there were lots of fixes I had to do to get his working!
 
@@ -20,19 +20,23 @@ Add ability to lint / error-check your files using external methods and LSP.
 
 New and improved status line at the bottom.
 
-Added a floating terminal plugin.
+Add a floating terminal plugin.
 
-Added impaient plugin. Load times will be faster.
+Add impaient plugin. Load times will be faster.
 
-Lines will be indented in source files from the indentline plugin.
+Lines will indent in source files from the indentline plugin.
 
-Added whichkey plugin to allow faster menu options.
+Add whichkey plugin to allow faster menu options.
 
-Tags can now automatically be closed by by nvim-ts-autotag.
+Tags can now automatically close by by nvim-ts-autotag.
 
 parenthesis are now surround by different colors as they nest.
 
-Added some NvimTreeToggle Shortcuts.
+Add some NvimTreeToggle Shortcuts.
+
+Add Prettier for clean sytax.
+
+Add Mason for a superior plugin to nvim-lsp.
 
 The following is copied from Christian Chiarulli's README file.
 (https://github.com/LunarVim/Neovim-from-scratch/blob/master/README.md)

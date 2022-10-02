@@ -85,6 +85,7 @@ return packer.startup(function(use)
   use { 'williamboman/mason.nvim' } -- , config = lua_path"mason" }
   use { 'williamboman/mason-lspconfig.nvim'} -- , config = lua_path"mason-lspconfig" }
   use "neovim/nvim-lspconfig" -- enable LSP
+  use { 'onsails/lspkind-nvim' }
 --  use "williamboman/nvim-lsp-installer" -- simple to use language server installe r
 --  use "tamago324/nlsp-settings.nvim" -- language server settings defined in json for
 --  use "jose-elias-alvarez/null-ls.nvim" -- for formatters and linters

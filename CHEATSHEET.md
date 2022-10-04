@@ -116,7 +116,7 @@ For a full list of commands:
 (all of these commands work within the actual tree and not the editor window
 
 To move to left window:
-<Ctrl> + h
+$<$Ctrl$>$ + h
 
 to move to right window:
 <Ctrl> + l
